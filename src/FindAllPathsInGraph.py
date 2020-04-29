@@ -69,5 +69,5 @@ g.addEdge(1, 3)
 
 s = 2 ; d = 3
 print ("Following are all different paths from %d to %d :" %(s, d))
-g.printAllPaths()
+g.printAllPaths(s, d)
 #This code is contributed by Neelam Yadav
